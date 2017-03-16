@@ -205,7 +205,6 @@ en:
           features: Features
           info: Info
           process_admins: Process admins
-          settings: Settings
           steps: Steps
         scopes: Scopes
         settings: Settings
@@ -378,7 +377,6 @@ en:
         destroy:
           success: Participatory process destroyed successfully.
         edit:
-          title: Title
           update: Update participatory process
         form:
           title: General Information
